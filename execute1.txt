@@ -1,4 +1,8 @@
-testestestestestesteste quarto!
+<<<<<<< HEAD
+testestestestestesteste cinci!
+=======
+testestestestestesteste terceiro!
+>>>>>>> Teste
 
 
 teste git
