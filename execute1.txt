@@ -1,13 +1,4 @@
-<<<<<<< HEADdasdassdasasddasdasdasdasdaa
-<<<<<<< HEAD
-testestestestestesasdaasdasteste cinc0000i!
-oooousadausoduaosuaosas
-=======
-testestestestestesteste terceiro!
->>>>>>> Teste
-=======
-testestestestestesteste setimo!
->>>>>>> Teste
+testestestestestesteste oitavo!
 
 
 teste git
