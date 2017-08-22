@@ -21,7 +21,8 @@
  * @copyright 2009 MIT
  * @license   http://en.wikipedia.org/wiki/MIT_License MIT License
  * @link      http://blog.motane.lu/2009/01/02/multithreading-in-php/
-  * test commit
+ * test commit
+ * novo testes to commit
  */
 
 class Thread
