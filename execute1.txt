@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 testestestestestesteste cinc0000i!
 =======
 testestestestestesteste terceiro!
+>>>>>>> Teste
+=======
+testestestestestesteste setimo!
 >>>>>>> Teste
 
 
