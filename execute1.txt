@@ -1,6 +1,7 @@
+<<<<<<< HEADdasdassdasasddasdasdasdasdaa
 <<<<<<< HEAD
-<<<<<<< HEAD
-testestestestestesteste cinc0000i!
+testestestestestesasdaasdasteste cinc0000i!
+oooousadausoduaosuaosas
 =======
 testestestestestesteste terceiro!
 >>>>>>> Teste
